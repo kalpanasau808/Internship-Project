@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets / Large CSV files
+*.csv
+*.parquet
+*.feather
+*.h5
+
+# Model Checkpoints & Saved Artifacts
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pb
+*.pt
+*.pth
+
+# Environment variables & secrets
+.env
+.env.*
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db

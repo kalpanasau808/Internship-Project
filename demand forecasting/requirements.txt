@@ -1,0 +1,21 @@
+# Data Manipulation & Numerical Computing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning & Metrics Evaluation
+scikit-learn>=1.2.0
+
+# Time Series Modeling
+statsmodels>=0.14.0
+prophet>=1.1.0
+
+# Deep Learning (for LSTM)
+tensorflow>=2.12.0
+
+# Utilities & Jupyter Support
+notebook>=6.5.0
+joblib>=1.2.0

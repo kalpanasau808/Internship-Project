@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Kaggle / Environment specific files
+.kaggle/
+kaggle.json
+
+# Local Data / Datasets (prevent uploading large synthetic CSVs)
+*.csv
+*.json
+*.zip
+*.tar.gz
+data/
+datasets/
+
+# Environments & Virtual Envs
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Model Checkpoints / Trained Artifacts
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
